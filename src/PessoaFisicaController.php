@@ -26,8 +26,8 @@ class PessoaFisicaController
     public function list()
     {
         return $this
-                ->entityManager
-                ->getRepository(PessoaFisica::class)
-                ->findAll();
+            ->entityManager
+            ->getRepository(PessoaFisica::class)
+            ->findAll();
     }
 }
