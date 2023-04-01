@@ -10,7 +10,7 @@ Para executar esse projeto vocês precisarão do composer, git e php8 instalados
 
 ```
   cd minicurso-doctrine
-```
+``` 
 
 ```
   composer install
