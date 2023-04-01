@@ -1,6 +1,6 @@
 # minicurso-doctrine
 
-Este projeto refere-se a atividade prática desenvolvido minicurso 'Uso de ORM para o desenvolvimento de software" ministrado pelo tutor Juscelino Fernandes da Costa Junior.
+Este projeto refere-se a atividade prática desenvolvida no minicurso 'Uso de ORM para o desenvolvimento de software" ministrado pelo tutor Juscelino Fernandes da Costa Junior.
 
 Para executar esse projeto vocês precisarão do composer, git e php8 instalados na máquina e mysql rodando no localhost na porta 3306.
 
